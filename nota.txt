@@ -1,0 +1,5 @@
+===NOTA KASIR===
+barang:  gula
+harga: 2000
+jumlah_barang: 3
+total 6000
